@@ -19,4 +19,7 @@ Cria um novo commit ( Explicar aqui!!!)
 cria tipo um atalho para fazer os download's e upload's( quando enteder melhor, melhoro a explicação!!!) 
 
 ## git push - origin master
-Empurra o arquivo para o git, de acordo com a Url passada no git remote add origin
+Empurra o arquivo para o github, de acordo com a Url passada no git remote add origin
+
+## git pull origin master
+Pucha o arquivo do github , de acordo com a Url passada no git remote add origin
