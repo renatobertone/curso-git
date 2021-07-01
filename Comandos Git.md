@@ -1,3 +1,20 @@
+Ou crie um novo repositório na linha de comando
+echo "# digitalinnovation" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote adicionar origem https://github.com/renatobertone/digitalinnovation.git
+ git push - sua origem principal
+… Ou envie um repositório existente a partir da linha de comando
+git remote add origin https://github.com/renatobertone/digitalinnovation.git
+ git branch -M main 
+git push -u origin main
+
+
+
+
+
 # Para subir arquivos para o git, use a sequência abaixo.
 
 ## git status
